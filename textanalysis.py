@@ -611,7 +611,7 @@ if __name__ == '__main__':
     making_pajek_netfile_from_excelfile(filename  = 'total.xlsx', 
                                     fieldname     = 'Morpho2', 
                                     sep           = '|', 
-                                    pajekfilename = 'president_total_',
+                                    pajekfilename = 'president_total_1208',
                                     option = {'no':1,'fieldname':u'Pname'})
 
     if 1 == 0 :
