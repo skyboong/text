@@ -1,4 +1,6 @@
 # -*- coding: UTF-8 -*-
+# Date : 2016.12.11
+# BY   : B. K. Choi
 
 import datetime, codecs, platform, time
 import pandas as pd
